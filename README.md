@@ -5,7 +5,7 @@
 
 This is a cheat for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) x64
 
-The cheat almost completely repeats the old nixware menu, which is why it has such a name
+this fork can give 2 life to the originals
 
 update original someday 
 
