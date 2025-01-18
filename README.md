@@ -7,11 +7,7 @@ This is a cheat for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys
 
 The cheat almost completely repeats the old nixware menu, which is why it has such a name
 
-The cheat is updated every week on Monday (almost)
-
-Please write about problems and errors in [issues](https://github.com/pa1n-dev/nixware_x64/issues)
-
-I will also now attach the [virustotal](https://www.virustotal.com/gui/home/upload) to each update
+update original someday 
 
 #### Features
 - Aimbot (Silent, Automatic fire, Penetrate walls (SWB, CW2), Hitbox, Priority, Smooth)
