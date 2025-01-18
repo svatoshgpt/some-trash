@@ -1,8 +1,7 @@
 ### Nixware
 
 > [!WARNING]
-> ### nixware IS NO LONGER SUPPORTED
-> #### Always updated, more functional, our cheat is only for $2: [Ignite](https://ignitecheat.xyz/)
+> ### this garbage is a fork of nixwar
 
 This is a cheat for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) x64
 
@@ -13,9 +12,6 @@ The cheat is updated every week on Monday (almost)
 Please write about problems and errors in [issues](https://github.com/pa1n-dev/nixware_x64/issues)
 
 I will also now attach the [virustotal](https://www.virustotal.com/gui/home/upload) to each update
-
-#### Communication
-[OUR DISCORD SERVER](https://discord.gg/FdezFJxMxd)
 
 #### Features
 - Aimbot (Silent, Automatic fire, Penetrate walls (SWB, CW2), Hitbox, Priority, Smooth)
@@ -45,10 +41,8 @@ I will also now attach the [virustotal](https://www.virustotal.com/gui/home/uplo
 ![image](https://github.com/pa1n-dev/nixware_x64/assets/74207477/c21beff3-5d31-45c7-a8ca-fafbeb5318a3)
 
 #### ToDo
-- Lua API
-- Netlogger
-- Legit bhop/strafe
-- M9K Autowall
+- NeverLose menu
+- crash game (just a joke)
 
 #### How to use
 Open properties: 
@@ -62,27 +56,3 @@ Select beta version:
 Also, when starting the game, select x64
 
 Afterwards you need to inject via process hacker
-
-### Download
-- [releases](https://github.com/pa1n-dev/nixware_x64/releases)
-
-> [!WARNING]
-> I cant guarantee safety of downloading cheat from other web sites
-
-### Credits
-#### Maintainers / Devs
-- [pa1n](https://github.com/pa1n-dev)
-
-#### Testers
-- [pavetr](https://github.com/pavetr1337)
-- [theshezzee](https://github.com/THEshezzee) (partial)
-
-#### Special thanks to these cheats
-- [lemi_gmod_revolution](https://github.com/LemiProject/lemi_gmod_revolution/)
-- [GMod-SDK](https://github.com/Gaztoof/GMod-SDK/)
-
-### Software used
-- [ImGui](https://github.com/ocornut/imgui)
-- [MinHook](https://github.com/TsudaKageyu/minhook)
-- [Json](https://github.com/nlohmann/json)
-- [xorstr](https://github.com/JustasMasiulis/xorstr)
