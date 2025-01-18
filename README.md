@@ -39,6 +39,8 @@ update original someday
 #### ToDo
 - NeverLose menu
 - crash game (just a joke)
+- more best aim and anti-aim
+- remake the cheat completely
 
 #### How to use
 Open properties: 
